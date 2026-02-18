@@ -3,8 +3,9 @@ name: aporia-navigation
 description: Work productively within states of puzzlement, confusion, or impasse—transforming what feels like failure into fertile ground for genuine understanding.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3403
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - aporia-navigation
 - transformation
